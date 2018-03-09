@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GetDistance</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="distance">Distance</string>
+    <string name="source">Enter your source here</string>
+    <string name="destination">Enter your destination here</string>
+</resources>
